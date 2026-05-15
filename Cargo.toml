@@ -1,0 +1,3 @@
+[workspace]
+members = ["contracts/loyalty_program"]
+resolver = "2"
